@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: .
+  post-render: "echo hello"
 
 website:
   title: "Home"
