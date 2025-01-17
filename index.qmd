@@ -1,0 +1,15 @@
+---
+title: "Sounkou Mahamahe Toure"
+subtitle: "Bioinformatician"
+image: profile.jpg
+about: 
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sounkou-bioinfo
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sounkou-mahamane-toure-026649248/
+---
+
